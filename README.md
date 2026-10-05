@@ -659,16 +659,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Flutter Developer Intern
 **Excelsior Technologies**
 
----
 
-# 🔗 Repository
-
-[flutter_smart_bottom_sheet on GitHub](https://github.com/sufiyanshaikh-1304/flutter_smart_bottom_sheet?utm_source=chatgpt.com)
-
----
-
-## ⭐ Support
-
-If you find this package useful, consider giving the repository a ⭐ on GitHub.
-
-Made with ❤️ using Flutter and Dart.
